@@ -1,4 +1,4 @@
-# Cpp-language
-complete Cpp language for learning 
+# C -language
+complete C language for learning 
 //basics 
     => c skeleton and hello world
