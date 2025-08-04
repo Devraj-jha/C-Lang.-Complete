@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("hello world");
-    return 0;
+    int number;
+    printf("Hello world");
+    //just be the best programmer in the world bro.
 }
